@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.ASP", "z.ASP\z.ASP.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.DbHelper", "z.DbHelper\z.DbHelper.csproj", "{DA64E4E3-1857-4B57-A6D9-ABBDB092E7E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z.Services", "z.Services\z.Services.csproj", "{AE30665B-D558-4338-8148-E8543FCE9825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DA64E4E3-1857-4B57-A6D9-ABBDB092E7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA64E4E3-1857-4B57-A6D9-ABBDB092E7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA64E4E3-1857-4B57-A6D9-ABBDB092E7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE30665B-D558-4338-8148-E8543FCE9825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE30665B-D558-4338-8148-E8543FCE9825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE30665B-D558-4338-8148-E8543FCE9825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE30665B-D558-4338-8148-E8543FCE9825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
