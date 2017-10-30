@@ -154,6 +154,7 @@ namespace z.Extensions
             Regex regex = new Regex(regformat, RegexOptions.IgnoreCase);
             return regex.IsMatch(str1);
         }
+
         /// <summary>
         /// 获取随机字符串
         /// </summary>
